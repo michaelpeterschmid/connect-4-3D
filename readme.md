@@ -7,5 +7,6 @@
 
 **This is what the my online version looks like**
 ![Online Game Image](connect4.gif)
+
 **This is what the game looks like originially**
 ![Real Game Image](real_game.png)
